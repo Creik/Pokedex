@@ -1,0 +1,9 @@
+.grid{
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.main{
+  justify-content: space-around;
+
+}

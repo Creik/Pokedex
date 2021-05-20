@@ -1,0 +1,23 @@
+.userInfo {
+  height: 100%;
+  text-align: center;
+}
+.avatar {
+  width: 55%;
+  margin-bottom: 1rem;
+}
+.userName,.userLevel,.userMessage{
+  margin: 0.5rem;
+  font-weight: bold;
+  color: white;
+}
+.userName {
+  text-transform: uppercase;
+}
+.userLevel {
+  opacity: 0.5;
+  margin-bottom: 2.5rem;
+}
+.userMessage {
+  font-weight: normal !important;
+}

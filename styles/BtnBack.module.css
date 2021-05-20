@@ -1,0 +1,18 @@
+.btn {
+  align-self: center;
+  border-radius: 16px;
+  width: 50px;
+  min-width: 50px;
+  right: 0;
+  background-color: #566CD6;
+  color: white;
+  height: 32px;
+  border: none;
+}
+.btnIcon {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: -.1rem;
+  height: 80%;
+
+}
